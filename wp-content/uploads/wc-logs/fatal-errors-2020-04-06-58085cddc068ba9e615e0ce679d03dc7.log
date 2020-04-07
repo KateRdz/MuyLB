@@ -1,0 +1,6 @@
+2020-04-06T11:07:06+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/translations.php en la línea 100
+
+2020-04-06T11:07:06+00:00 CRITICAL Out of memory (allocated 18874368) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/pomo/translations.php en la línea 100
+
+2020-04-06T11:07:06+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) en /var/www/html/wp-includes/rest-api/class-wp-rest-server.php en la línea 759
+
